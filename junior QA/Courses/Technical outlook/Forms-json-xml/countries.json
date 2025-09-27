@@ -1,0 +1,101 @@
+[
+  {
+    "englishName": "United Kingdom",
+    "russianName": "Великобритания",
+    "countryCode": "44",
+    "currencyCode": "GBP",
+    "cities": [
+      {
+        "englishName": "London",
+        "russianName": "Лондон",
+        "population": 9787426
+      },
+      {
+        "englishName": "Cardiff",
+        "russianName": "Кардифф",
+        "population": 390214
+      },
+      {
+        "englishName": "Liverpool",
+        "russianName": "Ливерпуль",
+        "population": 864122
+      },
+      {
+        "englishName": "Nottingham",
+        "russianName": "Ноттингем",
+        "population": 729977
+      },
+      {
+        "englishName": "Bristol",
+        "russianName": "Бристоль",
+        "population": 617280
+      }
+    ]
+  },
+  {
+    "englishName": "France",
+    "russianName": "Франция",
+    "countryCode": "33",
+    "currencyCode": "EUR",
+    "cities": [
+      {
+        "englishName": "Paris",
+        "russianName": "Париж",
+        "population": 13071056
+      },
+      {
+        "englishName": "Lyon",
+        "russianName": "Лион",
+        "population": 2308818
+      },
+      {
+        "englishName": "Marseille",
+        "russianName": "Марсель",
+        "population": 1888788
+      },
+      {
+        "englishName": "Toulouse",
+        "russianName": "Тулуза",
+        "population": 1490640
+      },
+      {
+        "englishName": "Rennes",
+        "russianName": "Рен",
+        "population": 771320
+      }
+    ]
+  },
+  {
+    "englishName": "Canada",
+    "russianName": "Канада",
+    "countryCode": "1",
+    "currencyCode": "CAD",
+    "cities": [
+      {
+        "englishName": "Toronto",
+        "russianName": "Торонто",
+        "population": 6202225
+      },
+      {
+        "englishName": "Montreal",
+        "russianName": "Монреаль",
+        "population": 4291732
+      },
+      {
+        "englishName": "London",
+        "russianName": "Лондон",
+        "population": 543551
+      },
+      {
+        "englishName": "Halifax",
+        "russianName": "Галифакс",
+        "population": 465703
+      },
+      {
+        "englishName": "Vancouver",
+        "russianName": "Ванкувер",
+        "population": 2642825
+      }
+    ]
+  }
+]
